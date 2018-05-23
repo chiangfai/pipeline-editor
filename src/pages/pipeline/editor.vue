@@ -75,7 +75,7 @@
     :visible.sync="tipDialogVisible"
     width="35%">
     <h3>后台服务器性能稍差, 请耐心等待接口返回.</h3>
-    如果接口请求总是失败, 请点击<a href="http://172.106.33.34/pipeline-node/pipeline/prepareFromTemplate" target="blank">这里</a>允许浏览器访问自签名证书的服务器.
+    如果接口请求总是失败, 请点击<a href="https://172.106.33.34/pipeline-node/pipeline/prepareFromTemplate" target="blank">这里</a>允许浏览器访问自签名证书的服务器.
   </el-dialog>
 </div>
 </template>
