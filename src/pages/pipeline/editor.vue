@@ -109,7 +109,7 @@ export default {
       previewSrc: '',
       formName: 'pageBaseConfig',
       pageBaseUrl: '',
-      tipDialogVisible: true,
+      tipDialogVisible: false,
     };
   },
   methods: {

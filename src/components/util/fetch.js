@@ -5,7 +5,7 @@ import stringify from 'qs/lib/stringify';
 export default (api, options = {}) => {
   let url = api;
   // 跨域
-  options.credentials = 'include';
+  // options.credentials = 'include';
   // 处理hearder
   options.headers = options.headers || {};
   if (!options.headers['Content-Type']) {
